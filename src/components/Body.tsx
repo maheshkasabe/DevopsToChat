@@ -8,8 +8,8 @@ const Body = () => {
   return (
     <div className='flex flex-col justify-center items-center'>
         <div className='flex flex-col justify-center items-center m-40 p-20'>
-          <button className='whitespace-nowrap display-inline text-xs font-semibold border-2 pr-4 p-2 pl-4 m-3 rounded-2xl shadow-lg'> Powerd by <u className="font-bold">NextJS</u>  </button>
-          <p className='text-7xl font-semibold text-center m-5'>Chat with your Pipeline <br/> in seconds</p>
+          <p className='whitespace-nowrap display-inline text-xs font-semibold border-2 border-[#5D3FD3] pr-4 p-2 pl-4 m-3 rounded-2xl shadow-lg'> Powerd by <u className="font-bold">NextJS</u>  </p>
+          <p className='text-7xl font-semibold text-center m-5'>Chat with your K8s Clusters <br/> in seconds</p>
           <p className='m-5'>Have a conversation with your CI/CD, Cloud Provider, and Kubernetes Clusters for free</p>
           <button className='whitespace-nowrap display-inline text-xl font-semibold border-2 pr-8 p-2 pl-8 m-3 rounded-3xl shadow-lg bg-black text-white'>Get Started </button>
 
