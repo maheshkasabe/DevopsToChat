@@ -2,7 +2,6 @@ import Link from "next/link"
 import img from "../../public/Logo.png"
 import github from "../../public/github.png"
 import twitter from "../../public/twitter.png"
-import sign from "../../public/pen.png"
 import { Features } from "@/constants"
 
 const Body = () => {
