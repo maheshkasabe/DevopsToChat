@@ -7,7 +7,6 @@ import { Features } from "@/constants"
 const Body = () => {
   return (
     <div className='flex flex-col justify-center items-center'>
-      
         <div className='flex flex-col justify-center items-center m-40 p-20'>
           <p className='whitespace-nowrap display-inline text-xs font-semibold border-2 border-[#5D3FD3] pr-4 p-2 pl-4 m-3 rounded-2xl shadow-lg'> Powerd by <u className="font-bold">NextJS</u>  </p>
           <p className='text-7xl font-semibold text-center m-5'>Chat with your K8s Clusters <br/> in seconds</p>
